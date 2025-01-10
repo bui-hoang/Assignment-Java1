@@ -17,10 +17,7 @@ class Product {
 Product [] array = new Product[0];
 
 void main() {
-    // out.print("Quản lý mảng sinh viên");
     loop(); // event
-
-    // main loop of events
 }
 
 void loop() {
